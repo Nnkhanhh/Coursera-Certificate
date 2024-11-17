@@ -39,10 +39,7 @@ This repository showcases the courses I've completed on Coursera. These courses 
 I want to motivate myself and others on the path of lifelong learning. These certificates represent my commitment to acquiring new skills and applying them in real-world scenarios.
  
 
----
 
 Thank you for visiting! Keep learning and growing. 💪
 
---- 
 
-Feel free to personalize it further! 😊
